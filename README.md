@@ -38,7 +38,13 @@ We can find the y-intercept in terms of the resonance radius and its correspondi
 \begin{align}
     b &= \frac{(E - \Omega_{b}L_{z}) - E_{c}}{\kappa} \\
     &= \frac{(E_{c} + E_{r} - \Omega_{b}L_{z}) - E_{c}}{\kappa} \\
-    &= \frac{(J_{r}\kappa) - \Omega_{b}L_{z}}{\kappa} \\
+    &= \frac{(J_{r}\kappa) - \Omega_{b}L_{z}}{\kappa}
+\end{align}
+```
+Remember that J<sub>r</sub> = 0.
+
+```math
+\begin{align}
     &= - \frac{\Omega_{b}L_{z}}{\kappa} \\
     &= - \frac{\Omega_{b}(R_{g} \cdot v_{c})}{\kappa} 
 \end{align}
