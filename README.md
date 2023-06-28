@@ -3,7 +3,7 @@ Calculate constant lines of E<sub>J</sub>.
 
 ## Derivation 
 
-Starting from the Jacobi energy, rewrite the total energy, $E$, in terms of the circular and random energies,
+Starting from the Jacobi energy, rewrite the total energy, $E$, in terms of the circular and radial energies,
 ```math
 \begin{align}
     E_{J}(J_{r}= 0) &= E - \Omega_{b}L_{z} \\
