@@ -1,6 +1,6 @@
 *If you use this code, please link this repository (https://github.com/oliviamcauley/Resonance_Lines) along with http://github.com/jobovy/galpy in any publication.*
 
-# Resonance_Lines
+# Resonance Lines
 Calculate constant lines of E<sub>J</sub>.
 
 ## Derivation 
