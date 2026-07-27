@@ -1,14 +1,14 @@
-This repository contains a Jupyter Notebook that has a function to find resonances in spiral galaxies and barred disk galaxies. See the [plot](#GrowBar_Jphi) below for a visual of finding lines of resonances for a growing Dehnen bar.
-
+# Resonance Lines
 *If you use this code, please link this repository (https://github.com/oliviamcauley/Resonance_Lines) along with http://github.com/jobovy/galpy in any publication.*
+
+This repository contains a Jupyter Notebook with a function to identify orbital resonances in spiral and barred disk galaxies. See the [plot](#GrowBar_Jphi) below, which visualizes resonance lines for a growing Dehnen bar.
+
+**Goal:** Derive the linear relation for constant E<sub>J</sub> in action space, used to identify resonance lines.
 
 # Table of Contents
 1. [Resonance Lines](#Resonance-Lines)
     - [Derivation](#Derivation)
 2. [Visualization of Resonance Lines](#Visualization-of-Resonance-Lines)
-
-# Resonance Lines
-Calculate constant lines of the Jacobi energy, E<sub>J</sub>.
 
 ## Derivation 
 
