@@ -64,7 +64,7 @@ where R<sub>g</sub> is the guiding radius at the resonance and v<sub>c</sub> is 
     </td>
     <td width="50%" valign="top">
       <h3>Azimuthal Action in Barred Disk Galaxy</h3>
-      <p>This plot describe the change in azimuthal action in action space after two rotations of the bar. The legend of the plot is read as follows:
+      <p>This plot describes the change in azimuthal action in action space after two rotations of the bar. The legend of the plot is read as follows:
 
 The y-axis is the initial radial action.<br>
 The x-axis is the initial azimuthal action.<br>
