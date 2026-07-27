@@ -28,19 +28,21 @@ Substitute in E<sub>r</sub> = J<sub>r</sub>&kappa; and solve for J<sub>r</sub>,
 \end{align}
 ```
 
-This equation has the form of a linear equation, $y=y_{0}+mx$. To align the line(s) with the resonances, find the y-intercept, $y_{0}$. Set $y_{0}$ to,
+This equation has the form of a linear equation, $y=y_{0}+mx$. To align the line(s) with the resonances, find the y-intercept, $y_{0}$. 
+
+Setting $y_{0}$ to,
 ```math
 \begin{equation}
-  y_{0} = \frac{E_{J}(J_{r}=0)- E_{c}}{\kappa}.
+  y_{0} = \frac{E_{J}(J_{r}=0)- E_{c}}{\kappa},
 \end{equation}
 ```
-We can find the y-intercept in terms of the resonance radius and its corresponding circular velocities.
+we can find the y-intercept in terms of the resonance radius and its corresponding circular velocities,
 
 ```math
 \begin{align}
     y_{0} &= \frac{(E - \Omega_{b}L_{z}) - E_{c}}{\kappa} \\
     &= \frac{(E_{c} + E_{r} - \Omega_{b}L_{z}) - E_{c}}{\kappa} \\
-    &= \frac{(J_{r}\kappa) - \Omega_{b}L_{z}}{\kappa}
+    &= \frac{(J_{r}\kappa) - \Omega_{b}L_{z}}{\kappa}.
 \end{align}
 ```
 Remember that J<sub>r</sub> = 0,
@@ -55,9 +57,14 @@ Remember that J<sub>r</sub> = 0,
 where R<sub>g</sub> is the guiding radius at the resonance and v<sub>c</sub> is the circular velocity at R<sub>g</sub>.
 
 # Plot the Lines of Resonances for a Growing Dehnen Bar
-<img width="1024" height="554" alt="GrowBar_JphiAction" src="https://github.com/user-attachments/assets/db053274-b43e-42d0-8b09-c56b9406d183" />
-
-This plot describe the change in azimuthal action in action space after two rotations of the bar. The legend of the plot is read as follows:
+<table>
+  <tr>
+    <td width="50%">
+      <img width="1024" height="554" src="https://github.com/user-attachments/assets/db053274-b43e-42d0-8b09-c56b9406d183" alt="GrowBar_JphiAction">
+    </td>
+    <td width="50%" valign="top">
+      <h3>Azimuthal Action in Barred Disk Galaxy</h3>
+      <p>This plot describe the change in azimuthal action in action space after two rotations of the bar. The legend of the plot is read as follows:
 
 The y-axis is the initial radial action.<br>
 The x-axis is the initial azimuthal action.<br>
@@ -66,4 +73,9 @@ The dashed lines are the ultra harmonic resonances (UHR).<br>
 The solid black line is the corotation resonance (CR).
 
 The color bar is the change in the orbit sizes after two rotations of the bar. <br>
-Red means that the stellar orbit is increasing in size. Blue means that the orbit is decreasing in size.
+Red means that the stellar orbit is increasing in size. Blue means that the orbit is decreasing in size. <br>
+***Take Away: The greatest changes in orbital sizes occur near corotation.*** </p>
+    </td>
+  </tr>
+</table>
+
