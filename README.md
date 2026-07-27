@@ -53,3 +53,9 @@ Remember that J<sub>r</sub> = 0,
 ```
 
 where R<sub>g</sub> is the guiding radius at the resonance and v<sub>c</sub> is the circular velocity at R<sub>g</sub>.
+\n
+
+# Plot the Lines of Resonances for a Growing Dehnen Bar
+<img width="1024" height="554" alt="GrowBar_JphiAction" src="https://github.com/user-attachments/assets/db053274-b43e-42d0-8b09-c56b9406d183" />
+
+
