@@ -28,7 +28,7 @@ Substitute in E<sub>r</sub> = J<sub>r</sub>&kappa; and solve for J<sub>r</sub>,
 \end{align}
 ```
 
-This equation has the form of a linear equation, , $y=y_{0}+mx$. Find the y-intercept; this will align the line with the resonances. Let's set $y_{0}$ to
+This equation has the form of a linear equation, $y=y_{0}+mx$. To align the line(s) with the resonances, find the y-intercept, $y_{0}$. Set $y_{0}$ to,
 ```math
 \begin{equation}
   y_{0} = \frac{E_{J}(J_{r}=0)- E_{c}}{\kappa}.
