@@ -53,9 +53,17 @@ Remember that J<sub>r</sub> = 0,
 ```
 
 where R<sub>g</sub> is the guiding radius at the resonance and v<sub>c</sub> is the circular velocity at R<sub>g</sub>.
-\n
 
 # Plot the Lines of Resonances for a Growing Dehnen Bar
 <img width="1024" height="554" alt="GrowBar_JphiAction" src="https://github.com/user-attachments/assets/db053274-b43e-42d0-8b09-c56b9406d183" />
 
+This plot describe the change in azimuthal action in action space after two rotations of the bar. The legend of the plot is read as follows:
 
+The y-axis is the initial radial action.<br>
+The x-axis is the initial azimuthal action.<br>
+
+The dashed lines are the ultra harmonic resonances (UHR).<br>
+The solid black line is the corotation resonance (CR).
+
+The color bar is the change in the orbit sizes after two rotations of the bar. <br>
+Red means that the stellar orbit is increasing in size. Blue means that the orbit is decreasing in size.
