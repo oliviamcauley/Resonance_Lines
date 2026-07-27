@@ -1,4 +1,11 @@
+This repository contains a Jupyter Notebook that has a function to find resonances in spiral galaxies and barred disk galaxies. See the [plot](#GrowBar_Jphi) below for a visual of finding lines of resonances for a growing Dehnen bar.
+
 *If you use this code, please link this repository (https://github.com/oliviamcauley/Resonance_Lines) along with http://github.com/jobovy/galpy in any publication.*
+
+# Table of Contents
+1. [Resonance Lines](#Resonance-Lines)
+    - [Derivation](#Derivation)
+2. [Visualization of Resonance Lines](#Visualization-of-Resonance-Lines)
 
 # Resonance Lines
 Calculate constant lines of the Jacobi energy, E<sub>J</sub>.
@@ -56,14 +63,15 @@ Remember that J<sub>r</sub> = 0,
 
 where R<sub>g</sub> is the guiding radius at the resonance and v<sub>c</sub> is the circular velocity at R<sub>g</sub>.
 
-# Plot the Lines of Resonances for a Growing Dehnen Bar
+# Visualization of Resonance Lines
 <table>
   <tr>
     <td width="50%">
+    <a id="GrowBar_Jphi"></a>
+    <h3 align="center">Azimuthal Action in Barred Disk Galaxy</h3>
       <img width="1024" height="554" src="https://github.com/user-attachments/assets/db053274-b43e-42d0-8b09-c56b9406d183" alt="GrowBar_JphiAction">
     </td>
     <td width="50%" valign="top">
-      <h3>Azimuthal Action in Barred Disk Galaxy</h3>
       <p>This plot describes the change in azimuthal action in action space after two rotations of the bar. The legend of the plot is read as follows:
 
 The y-axis is the initial radial action.<br>
