@@ -73,7 +73,8 @@ The dashed lines are the ultra harmonic resonances (UHR).<br>
 The solid black line is the corotation resonance (CR).
 
 The color bar is the change in the orbit sizes after two rotations of the bar. <br>
-Red means that the stellar orbit is increasing in size. Blue means that the orbit is decreasing in size. <br>
+Red means that the stellar orbit is increasing in size. Blue means that the orbit is decreasing in size. 
+
 ***Take Away: The greatest changes in orbital sizes occur near corotation.*** </p>
     </td>
   </tr>
