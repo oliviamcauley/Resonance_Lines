@@ -8,7 +8,8 @@ This repository contains a Jupyter Notebook with a function to identify orbital 
 # Table of Contents
 1. [Resonance Lines](#Resonance-Lines)
     - [Derivation](#Derivation)
-2. [Visualization of Resonance Lines](#Visualization-of-Resonance-Lines)
+2. [Corotation Resonance](#Corotation-Resonance)
+3. [Visualization of Resonance Lines](#Visualization-of-Resonance-Lines)
 
 ## Derivation 
 
