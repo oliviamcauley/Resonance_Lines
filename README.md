@@ -66,7 +66,7 @@ where R<sub>g</sub> is the guiding radius at the resonance and v<sub>c</sub> is 
 # Corotation Resonance
 In the case of a barred disk galaxy, the corotation resonance occurs at the region of a barred disk galaxy where the bar and disk stars rotate at the same speed. The animation below shows the orbit of a star, denoted by a red dot, at corotation over 1 revolution.
 
-https://github.com/user-attachments/assets/a44b86d8-90e2-4718-8b42-8d5fdcae38dd
+https://github.com/user-attachments/assets/f712f409-b41e-4dc3-9a24-026ed062fcbd
 
 # Visualization of Resonance Lines
 <table>
